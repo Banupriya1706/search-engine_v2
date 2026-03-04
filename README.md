@@ -15,7 +15,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Search Page
 ![Search Page](screenshots/search_engine.png)
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
