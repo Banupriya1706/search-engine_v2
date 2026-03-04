@@ -217,3 +217,4 @@ if __name__ == "__main__":
     app.run(debug=False, host='0.0.0.0', port=port)
 
 # v2 - added upload and delete functionality
+# Predefined stopwords for preprocessing
